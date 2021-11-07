@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Example Recycler View</string>
+    <string name="title_lorem_ipsum">Lorem Ipsum</string>
+    <string name="title_null">null</string>
+    <string name="title_nama">Nama</string>
+    <string name="title_nim">NIM</string>
+    <string name="title_simpan">Simpan</string>
+</resources>
